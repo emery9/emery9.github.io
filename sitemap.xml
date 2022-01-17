@@ -1,18 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>https://emory6.github.io/posts/first_blog/</loc>
-    <lastmod>2022-01-17T18:57:58+08:00</lastmod>
-  </url><url>
-    <loc>https://emory6.github.io/</loc>
-    <lastmod>2022-01-17T18:57:58+08:00</lastmod>
-  </url><url>
-    <loc>https://emory6.github.io/posts/</loc>
-    <lastmod>2022-01-17T18:57:58+08:00</lastmod>
-  </url><url>
-    <loc>https://emory6.github.io/categories/</loc>
-  </url><url>
-    <loc>https://emory6.github.io/tags/</loc>
-  </url>
-</urlset>
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    ><url>
+            <loc>https://github.com/emory6/emory6.github.io.git/</loc><lastmod>2022-01-17T18:57:58&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://github.com/emory6/emory6.github.io.git/first_blog/</loc><lastmod>2022-01-17T18:57:58&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://github.com/emory6/emory6.github.io.git/tags/one/</loc><lastmod>2022-01-17T18:57:58&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://github.com/emory6/emory6.github.io.git/posts/</loc><lastmod>2022-01-17T18:57:58&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://github.com/emory6/emory6.github.io.git/tags/</loc><lastmod>2022-01-17T18:57:58&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://github.com/emory6/emory6.github.io.git/tags/two/</loc><lastmod>2022-01-17T18:57:58&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://github.com/emory6/emory6.github.io.git/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
